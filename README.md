@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChiLam03
+- 👋 Hi, I’m @Bleach
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning automatic
 - 💞️ I’m looking to collaborate on robotic
